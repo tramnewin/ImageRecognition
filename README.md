@@ -4,7 +4,21 @@
 **So that** I can fulfill senior design project  
 
 # Note:
+
 Pre-requisite:  
+.  
+├── images  
+│   ├── dogs.jpg  
+│   └── human.jpg  
+├── output  
+├── README.md  
+├── videos  
+├── yolo-coco  
+│   ├── coco.names  
+│   ├── yolov3.cfg  
+│   └── yolov3.weights  
+└── yolo.py  
+  
 - root directory must have images/, videos/, output/, yolo-coco/  
 (the videos/ only be used when yolo-video.py is implemented.. coming soon)  
 - the source code is under the root directory  
