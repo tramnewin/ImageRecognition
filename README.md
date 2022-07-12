@@ -8,8 +8,6 @@
 Pre-requisite:  
 .  
 ├── images  
-│   ├── dogs.jpg  
-│   └── human.jpg  
 ├── output  
 ├── README.md  
 ├── videos  
